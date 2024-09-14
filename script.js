@@ -1,4 +1,4 @@
-var menuIcon=document.querySelector(".menu");
+ var menuIcon=document.querySelector(".menu");
 var sidebar=document.querySelector(".sidebar");
 var container=document.querySelector(".container");
 menuIcon.onclick=function(){
